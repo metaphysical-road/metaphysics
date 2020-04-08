@@ -65,7 +65,7 @@
 
 #### [2.1.6 谈谈对 Spring DI 的理解？](spring/谈谈对SpringDI的理解.md)
 
-#### [2.1.7 BeanFactory 接口和 ApplicationContext 接口不同点是什么？](spring/BeanFactory 接口和 ApplicationContext 接口不同点是什么.md)
+#### [2.1.7 BeanFactory 接口和 ApplicationContext 接口不同点是什么？](spring/BeanFactory接口和ApplicationContext接口不同点是什么.md)
 
 #### [2.1.8 请介绍你熟悉的 Spring 核心类，并说明有什么作用？](spring/请介绍你熟悉的Spring核心类并说明有什么作用.md)
 
@@ -98,6 +98,18 @@
 #### [2.1.20 如何给 Spring 容器提供配置元数据?](spring/如何给Spring容器提供配置元数据.md)
 
 #### [2.1.21 Spring MVC 的控制器是不是单例模式,如果是,有什么问题,怎么解决？](spring/SpringMVC的控制器是不是单例模式如果是有什么问题怎么解决.md)
+
+### 2.2 Mybatis
+
+#### [2.2.1 Mybatis 的一级、二级缓存](mybatis/Mybatis的一级二级缓存)
+
+#### [2.2.2 Mybatis 延迟加载](mybatis/Mybatis延迟加载.md)
+
+#### [2.2.3 Mybatis优点和缺点](mybatis/Mybatis优点和缺点.md)
+
+#### [2.2.4 Mybatis安全性问题](mybatis/Mybatis安全性问题.md)
+
+#### [2.2.5 Mybatis如何分页](mybatis/Mybatis如何分页.md)
 
 ## 3 系统高可用建设方法论
 
