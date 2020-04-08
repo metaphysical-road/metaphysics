@@ -60,9 +60,9 @@
 
 #### [2.1.2 IOC](spring/IOC.md)
 
-#### [2.1.3 Spring Bean 注入是如何解决循环依赖](spring/Spring Bean 注入是如何解决循环依赖.md)
+#### [2.1.3 Spring Bean 注入是如何解决循环依赖](spring/SpringBean注入是如何解决循环依赖.md)
 
-#### [2.1.4 Spring 事务失效问题](spring/Spring 事务失效问题.md)
+#### [2.1.4 Spring 事务失效问题](spring/Spring事务失效问题.md)
 
 #### 2.1.5 谈谈对 Spring IoC 的理解？
 
